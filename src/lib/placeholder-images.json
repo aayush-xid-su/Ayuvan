@@ -1,0 +1,148 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "Lush green leaves with water droplets, signifying health and nature.",
+      "imageUrl": "https://img.freepik.com/premium-photo/ai-robots-analyzing-agriculture-product-quality-health_10221-62642.jpg?w=740",
+      "imageHint": "green leaves"
+    },
+    {
+      "id": "mission-image",
+      "description": "Close-up of ripe tomatoes on the vine.",
+      "imageUrl": "https://img.freepik.com/free-photo/closeup-ripe-tomatoes-vine_181624-56895.jpg?t=st=1766945985~exp=1766949585~hmac=85f2440f97657b86554f96eafcc1123d2799b8806f3ed95aa471926b5476b289&w=1480",
+      "imageHint": "ripe tomatoes"
+    },
+    {
+      "id": "benefit-ai",
+      "description": "A close-up of a leaf being scanned by a futuristic light.",
+      "imageUrl": "https://images.unsplash.com/photo-1693307299095-6d4476785264?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0ZWNobm9sb2d5JTIwYWdyaWN1bHR1cmV8ZW58MHx8fHwxNzY2ODQ3MjcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "technology agriculture"
+    },
+    {
+      "id": "benefit-library",
+      "description": "An open book with illustrations of different plants and leaves.",
+      "imageUrl": "https://images.unsplash.com/photo-1755443433380-9371a2117dd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxib3RhbnklMjBib29rfGVufDB8fHx8MTc2Njg0NzI3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "botany book"
+    },
+    {
+      "id": "benefit-articles",
+      "description": "A person writing in a notebook in a green field.",
+      "imageUrl": "https://images.unsplash.com/photo-1758522964581-a60c3e87a44e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxuYXR1cmUlMjB3cml0aW5nfGVufDB8fHx8MTc2Njg0NzI3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nature writing"
+    },
+    {
+      "id": "article-sustainable-farming",
+      "description": "A vibrant field with various crops growing under a sunny sky.",
+      "imageUrl": "https://images.unsplash.com/photo-1661328992560-55256f06bdad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzdXN0YWluYWJsZSUyMGZhcm18ZW58MHx8fHwxNzY2ODQ3MjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sustainable farm"
+    },
+    {
+      "id": "article-pest-control",
+      "description": "A ladybug on a green leaf, representing natural pest control.",
+      "imageUrl": "https://images.unsplash.com/photo-1595885972231-4c2079581391?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bGFkeWJ1ZyUyMGxlYWZ8ZW58MHx8fHwxNzY2ODQ3MjcxfDA&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "ladybug leaf"
+    },
+    {
+      "id": "article-soil-health",
+      "description": "Hands holding rich, dark soil.",
+      "imageUrl": "https://images.unsplash.com/photo-1756361947263-23a22ec2f7b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxyaWNoJTIwc29pbHxlbnwwfHx8fDE3NjY3NDU2NDh8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "rich soil"
+    },
+    {
+      "id": "disease-apple-scab",
+      "description": "An apple leaf showing characteristic dark, scabby spots.",
+      "imageUrl": "https://img.freepik.com/free-photo/sliced-fresh-red-apple-marble-background_114579-69149.jpg?t=st=1766946747~exp=1766950347~hmac=3bd8a744ea91681a72cabcea58280061033607b045113e302032217ac1e5bc2b&w=1480",
+      "imageHint": "diseased leaf"
+    },
+    {
+      "id": "disease-tomato-blight",
+      "description": "A tomato plant with leaves that have yellowing and brown spots, indicative of blight.",
+      "imageUrl": "https://images.unsplash.com/photo-1648822825892-ee88e97bdd34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0b21hdG8lMjBibGlnaHR8ZW58MHx8fHwxNzY2ODQ3MjcxfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "tomato blight"
+    },
+    {
+      "id": "disease-powdery-mildew",
+      "description": "A leaf covered in a white, powdery substance, which is a symptom of powdery mildew.",
+      "imageUrl": "https://images.unsplash.com/photo-1707339022313-58ba53a8423d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwb3dkZXJ5JTIwbWlsZGV3fGVufDB8fHx8MTc2Njg0NzI3MXww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "powdery mildew"
+    },
+    {
+      "id": "article-companion-planting",
+      "description": "Marigold flowers next to tomato plants, an example of companion planting.",
+      "imageUrl": "https://img.freepik.com/free-photo/planting-seedling_23-2151945611.jpg?t=st=1766946439~exp=1766950039~hmac=c8139ec94f64101e55b9915daf37375e77319528433b9e75d535bc979c0f1f0c&w=1480",
+      "imageHint": "marigold tomato"
+    },
+    {
+      "id": "article-watering",
+      "description": "A person watering a small plant with a watering can.",
+      "imageUrl": "https://img.freepik.com/free-photo/beautiful-biophilic-scene_23-2151897504.jpg?t=st=1766947586~exp=1766951186~hmac=e3e9cab168d97a42dac4c134a61c22ab1feb770e47dd268115cf40ca979fac38&w=1480",
+      "imageHint": "watering plant"
+    },
+    {
+      "id": "disease-black-spot",
+      "description": "A rose leaf with distinct black spots and a yellowing halo.",
+      "imageUrl": "https://img.freepik.com/free-photo/red-flower-cocoon-with-background-out-focus_1259-53.jpg?t=st=1766947072~exp=1766950672~hmac=91f0f54e95f5efe08ddc8508040af0796301fee4dbb09671bc0b3473d7c464c3&w=1480",
+      "imageHint": "black spot rose"
+    },
+    {
+      "id": "disease-corn-rust",
+      "description": "A corn leaf showing cinnamon-brown pustules of common rust.",
+      "imageUrl": "https://img.freepik.com/free-photo/fresh-corns-cobs-white_114579-29902.jpg?t=st=1766947755~exp=1766951355~hmac=4de4d848079cfbc6d8777dcca83202c026952c114af2e04a3b9d2c7523730412&w=1480",
+      "imageHint": "corn rust"
+    },
+    {
+      "id": "disease-grape-black-rot",
+      "description": "A bunch of grapes with some berries shriveled and black from black rot disease.",
+      "imageUrl": "https://img.freepik.com/free-photo/fresh-ripe-grapes-spoon-burlap_114579-29485.jpg?t=st=1766947841~exp=1766951441~hmac=aadd90dc1364eef471043ca2d0f1752e7b54f58f86f0272446d7677aa50e1990&w=1480",
+      "imageHint": "grape disease"
+    },
+    {
+      "id": "disease-peach-leaf-curl",
+      "description": "A peach tree branch with leaves that are thickened, curled, and reddish.",
+      "imageUrl": "https://img.freepik.com/free-photo/selective-focus-shot-tree-branch_181624-26681.jpg?t=st=1766948008~exp=1766951608~hmac=2f6a5e9391ba5031d7de5c8054ffc3194b6c36181697eaf73042cedd9d023f87&w=1480",
+      "imageHint": "peach leaf curl"
+    },
+    {
+      "id": "disease-downy-mildew",
+      "description": "A cucumber leaf with angular, yellow spots characteristic of downy mildew.",
+      "imageUrl": "https://img.freepik.com/free-photo/beautiful-bicolor-plant-details_23-2149362176.jpg?t=st=1766948106~exp=1766951706~hmac=7b874b61ec718bbf2a79244e65e06690b1db1081f59c55a9cea741ddabc124a5&w=1480",
+      "imageHint": "rotten leaf"
+    },
+    {
+      "id": "disease-fire-blight",
+      "description": "A pear branch with blackened, wilted leaves and a hooked shoot tip, typical of fire blight.",
+      "imageUrl": "https://img.freepik.com/free-photo/arrangement-with-basket-red-apples_23-2148262645.jpg?t=st=1766948232~exp=1766951832~hmac=a72c923e6022bc00fa596561e90858e17293986d3bf759282feac7c2b48d3398&w=1480",
+      "imageHint": "blight disease"
+    },
+    {
+      "id": "disease-bacterial-blight-micro",
+      "description": "Microscopic view of Xanthomonas campestris bacteria.",
+      "imageUrl": "https://img.freepik.com/premium-photo/nazca-booby-sula-granti-flies-beautifully-against-backdrop-ocean_187194-2384.jpg?w=740",
+      "imageHint": "microscopic bacteria"
+    },
+    {
+      "id": "disease-tomato-blight-micro",
+      "description": "Microscopic view of Phytophthora infestans.",
+      "imageUrl": "https://img.freepik.com/premium-photo/soil-microbes-compost-farm-india_866797-806.jpg",
+      "imageHint": "microscopic mold"
+    },
+    {
+      "id": "disease-powdery-mildew-micro",
+      "description": "Microscopic view of Erysiphales fungi.",
+      "imageUrl": "https://img.freepik.com/premium-photo/soil-fungi-growing-cycling-nutrients-healthy-ecosystem-sustainable-farm_866797-21376.jpg?w=740",
+      "imageHint": "microscopic fungus"
+    },
+    {
+      "id": "disease-apple-scab-micro",
+      "description": "Microscopic view of Venturia inaequalis fungus.",
+      "imageUrl": "https://img.freepik.com/premium-photo/sputum-smear-afb-stain-microscopic-show-microbacterium-tuberculosis-tb-mtb-test-medical-lab_581734-259.jpg?w=740",
+      "imageHint": "microscopic fungus"
+    },
+    {
+      "id": "disease-black-spot-micro",
+      "description": "Microscopic view of Diplocarpon rosae fungus.",
+      "imageUrl": "https://img.freepik.com/premium-photo/sputum-phlegm-smear-afb-stain-microscopy-showing-macrobacterium-tuberculosis-bacteria-mtb_595440-2530.jpg?w=740",
+      "imageHint": "microscopic fungus"
+    }
+  ]
+}
